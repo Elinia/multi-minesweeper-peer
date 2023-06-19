@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "peer": "^0.6.1"
+  },
+  "type": "module",
+  "devDependencies": {
+    "tsx": "^3.12.2"
+  }
+}
